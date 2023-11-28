@@ -8,4 +8,4 @@ https://colab.research.google.com/drive/1KY7MOBWloQZG1tQhuhmu6Z9R7j8maLeH?usp=sh
 
 Presentation Link:
 
-https://docs.google.com/presentation/d/1V7rnQHc2lc_T6tlBW_y2TsWevuG9PPy_/edit?usp=sharing&ouid=103685724193697672512&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1daDwJXiSOBQ50Zav0_8KK_4np80RUkfK/edit?usp=sharing&ouid=103685724193697672512&rtpof=true&sd=true
